@@ -1,0 +1,4 @@
+Reference,Qty,Part Number,Value,DNP,Footprint,Datasheet,Description
+"D1,D2",2,0807 SMD RGB SELF-FLASHING LED,LED,,LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~,0807 RGB Flashing LED. Fast Flash Preferred. Example LED: https://www.aliexpress.us/item/2251832630433460.html
+"R1,R2",2,RC0805JR-07160RL,R,,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~,0805 160Ohm Resistor
+X1,1,SBH11-NBPC-D03-ST-BK,Badgelife_sao_connector_v169bis,,Badgelife_SAO_v169bis_111:Badgelife-SAOv169-SAO-2x3,,2.54mm 2x3 Pin 6 Pin Straight Male Shrouded PCB Box header IDC Socket
